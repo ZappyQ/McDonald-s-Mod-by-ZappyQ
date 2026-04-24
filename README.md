@@ -13,6 +13,7 @@ Ever wanted to run your own McDonald's in Minecraft? Now you can! This mod adds 
 | 🍔 **Hamburger** | The classic, always satisfying |
 | 🍔 **Cheeseburger** | Topped with American Cheese |
 | 🍔 **McDouble** | Double the beef, double the fun |
+| 🍗 **McCrispy** | Crispy chicken fillet in a bun with butter and cucumber |
 | 🍞 **Wheat Bun** | Craft your burgers from scratch |
 | 🧀 **American Cheese** | The real deal |
 | 🍟 **Small Fries** | Fresh from the Frying Station |
@@ -22,6 +23,10 @@ Ever wanted to run your own McDonald's in Minecraft? Now you can! This mod adds 
 | 🥫 **Mustard** | Squeeze bottle with limited uses |
 | 🧂 **Salt** | Mined from underground Salt Ore |
 | 🥩 **Patties** | The only meat you will need for your burgers |
+| 🍗 **Raw Chicken Fillet** | Prepared with a knife, breadcrumbs and raw chicken |
+| 🍗 **Crispy Chicken Fillet** | Fried in the Frying Station |
+| 🧈 **Butter** | Made from a milk bucket |
+| 🍞 **Breadcrumbs** | Crafted from bread, used for coating chicken |
 
 ---
 
@@ -55,7 +60,7 @@ Grow your own ingredients! Four new crops can be discovered by breaking grass:
 
 The heart of the mod! The **Frying Station** works like a furnace but uses **custom frying recipes**.
 
-- Toss in raw fries, add some fuel, and get perfectly fried results
+- Toss in raw fries or a raw chicken fillet, add some fuel, and get perfectly fried results
 - The block **lights up** when active
 - Works with hoppers for automation
 
@@ -66,7 +71,6 @@ The heart of the mod! The **Frying Station** works like a furnace but uses **cus
 For crafting recipes, farming guides, and full mod documentation, check out the official wiki:
 
 ### 👉 [McDonald's Mod Wiki](https://mcdonalds-mod-by-zappyq.fandom.com/)
-
 
 For all my creations, check out [my linktree](https://linktr.ee/zappyq/)
 
