@@ -13,6 +13,7 @@ Ever wanted to run your own McDonald's in Minecraft? Now you can! This mod adds 
 | 🍔 **Hamburger** | The classic, always satisfying |
 | 🍔 **Cheeseburger** | Topped with American Cheese |
 | 🍔 **McDouble** | Double the beef, double the fun |
+| 🍔 **Big Mac** | The iconic double patty burger with shredded lettuce, American cheese, onion and cucumber |
 | 🍗 **McCrispy** | Crispy chicken fillet in a bun with butter and cucumber |
 | 🍞 **Wheat Bun** | Craft your burgers from scratch |
 | 🧀 **American Cheese** | The real deal |
@@ -27,17 +28,20 @@ Ever wanted to run your own McDonald's in Minecraft? Now you can! This mod adds 
 | 🍗 **Crispy Chicken Fillet** | Fried in the Frying Station |
 | 🧈 **Butter** | Made from a milk bucket |
 | 🍞 **Breadcrumbs** | Crafted from bread, used for coating chicken |
+| 🥬 **Lettuce** | Grown from Lettuce Seeds, found in grass |
+| 🥬 **Shredded Lettuce** | Craft Lettuce + Knife — essential for the Big Mac |
 
 ---
 
 ## 🌱 Crops & Farming
 
-Grow your own ingredients! Four new crops can be discovered by breaking grass:
+Grow your own ingredients! Five new crops can be discovered by breaking grass:
 
 - 🍅 **Tomato Plant** — drops fresh Tomatoes
 - 🥒 **Cucumber Plant** — for that extra crunch
 - 🧅 **Onion Plant** — because every burger needs one
 - 🌿 **Mustard Plant** — grow your own condiments
+- 🥬 **Lettuce Plant** — harvest Lettuce, then shred it with a Knife for Shredded Lettuce
 
 > 💡 Seeds drop randomly **(10% chance)** when breaking **Grass, Tall Grass, Ferns or Large Ferns** — just like real-life foraging!
 
@@ -46,7 +50,7 @@ Grow your own ingredients! Four new crops can be discovered by breaking grass:
 ## 🛠️ Tools
 
 - 🍳 **Spatula** — the essential burger-flipping tool, used as a crafting ingredient
-- 🔪 **Knife** — a durable iron knife for food preparation. Works as a **crafting remainder** — loses durability with each use!
+- 🔪 **Knife** — a durable iron knife for food preparation. Works as a **crafting remainder** — loses durability with each use! Also used to shred Lettuce into Shredded Lettuce
 
 ---
 
