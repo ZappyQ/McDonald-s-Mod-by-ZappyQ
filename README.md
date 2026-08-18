@@ -2,7 +2,7 @@
 
 ### **Bring the Golden Arches to Minecraft!**
 
-Ever wanted to run your own McDonald's in Minecraft? Now you can! This mod adds a whole fast-food experience to your world — from growing fresh ingredients to frying up crispy fries in a custom Frying Station.
+Ever wanted to run your own McDonald's in Minecraft? Now you can! This mod adds a whole fast-food experience to your world — from growing fresh ingredients to frying up crispy fries and McNuggets in a custom Frying Station.
 
 ---
 
@@ -15,6 +15,7 @@ Ever wanted to run your own McDonald's in Minecraft? Now you can! This mod adds 
 | 🍔 **McDouble** | Double the beef, double the fun |
 | 🍔 **Big Mac** | The iconic double patty burger with shredded lettuce, American cheese, onion and cucumber |
 | 🍗 **McCrispy** | Crispy chicken fillet in a bun with butter and cucumber |
+| 🍗 **McNuggets** | Golden fried chicken nuggets — chop chicken, coat with breadcrumbs, fry in the Frying Station |
 | 🍞 **Wheat Bun** | Craft your burgers from scratch |
 | 🧀 **American Cheese** | The real deal |
 | 🍟 **Small Fries** | Fresh from the Frying Station |
@@ -26,6 +27,8 @@ Ever wanted to run your own McDonald's in Minecraft? Now you can! This mod adds 
 | 🥩 **Patties** | The only meat you will need for your burgers |
 | 🍗 **Raw Chicken Fillet** | Prepared with a knife, breadcrumbs and raw chicken |
 | 🍗 **Crispy Chicken Fillet** | Fried in the Frying Station |
+| 🍗 **Chopped Chicken** | Chop a whole Chicken with a Knife — yields 9 pieces |
+| 🍗 **Raw McNuggets** | Coat 3 Chopped Chicken with Breadcrumbs — ready to fry |
 | 🧈 **Butter** | Made from a milk bucket |
 | 🍞 **Breadcrumbs** | Crafted from bread, used for coating chicken |
 | 🥬 **Lettuce** | Grown from Lettuce Seeds, found in grass |
@@ -50,7 +53,7 @@ Grow your own ingredients! Five new crops can be discovered by breaking grass:
 ## 🛠️ Tools
 
 - 🍳 **Spatula** — the essential burger-flipping tool, used as a crafting ingredient
-- 🔪 **Knife** — a durable iron knife for food preparation. Works as a **crafting remainder** — loses durability with each use! Also used to shred Lettuce into Shredded Lettuce
+- 🔪 **Knife** — a durable iron knife for food preparation. Works as a **crafting remainder** — loses durability with each use! Also used to chop Chicken into Chopped Chicken and shred Lettuce into Shredded Lettuce
 
 ---
 
@@ -64,7 +67,7 @@ Grow your own ingredients! Five new crops can be discovered by breaking grass:
 
 The heart of the mod! The **Frying Station** works like a furnace but uses **custom frying recipes**.
 
-- Toss in raw fries or a raw chicken fillet, add some fuel, and get perfectly fried results
+- Toss in raw fries, a raw chicken fillet, or raw McNuggets, add some fuel, and get perfectly fried results
 - The block **lights up** when active
 - Works with hoppers for automation
 
@@ -82,7 +85,7 @@ For all my creations, check out [my linktree](https://linktr.ee/zappyq/)
 
 ## 💡 Got Ideas?
 
-If you have ideas for new items, blocks, recipes, or features — whether it's **Ice Cream, McNuggets, a Drive-Through block**, or anything else — **share them in the comments!**
+If you have ideas for new items, blocks, recipes, or features — **share them in the comments!**
 
 I'd love to hear your suggestions and will be happy to implement the best ones into future updates. 🎉
 
