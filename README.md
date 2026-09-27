@@ -1,96 +1,55 @@
 # 🍟 McDonald's Mod
 
-### **Bring the Golden Arches to Minecraft!**
+### Build burgers, grow ingredients and create your own fast-food restaurant in Minecraft!
 
-Ever wanted to run your own McDonald's in Minecraft? Now you can! This mod adds a whole fast-food experience to your world — from growing fresh ingredients to frying up crispy fries and McNuggets in a custom Frying Station.
+McDonald's Mod expands Minecraft with a complete fast-food production system. Grow fresh vegetables, prepare ingredients with reusable kitchen tools, cook burgers, fry chicken and mine Salt Ore hidden underground.
 
----
-
-## 🍔 Food Items
-
-| Item | Description |
-|------|-------------|
-| 🍔 **Hamburger** | The classic, always satisfying |
-| 🍔 **Cheeseburger** | Topped with American Cheese |
-| 🍔 **McDouble** | Double the beef, double the fun |
-| 🍔 **Big Mac** | The iconic double patty burger with shredded lettuce, American cheese, onion and cucumber |
-| 🍗 **McCrispy** | Crispy chicken fillet in a bun with butter and cucumber |
-| 🍗 **McNuggets** | Golden fried chicken nuggets — chop chicken, coat with breadcrumbs, fry in the Frying Station |
-| 🍞 **Wheat Bun** | Craft your burgers from scratch |
-| 🧀 **American Cheese** | The real deal |
-| 🍟 **Small Fries** | Fresh from the Frying Station |
-| 🍟 **Medium Fries** | Fresh from the Frying Station |
-| 🍟 **Big Fries** | Fresh from the Frying Station |
-| 🥫 **Ketchup** | Squeeze bottle with limited uses |
-| 🥫 **Mustard** | Squeeze bottle with limited uses |
-| 🧂 **Salt** | Mined from underground Salt Ore |
-| 🥩 **Patties** | The only meat you will need for your burgers |
-| 🍗 **Raw Chicken Fillet** | Prepared with a knife, breadcrumbs and raw chicken |
-| 🍗 **Crispy Chicken Fillet** | Fried in the Frying Station |
-| 🍗 **Chopped Chicken** | Chop a whole Chicken with a Knife — yields 9 pieces |
-| 🍗 **Raw McNuggets** | Coat 3 Chopped Chicken with Breadcrumbs — ready to fry |
-| 🧈 **Butter** | Made from a milk bucket |
-| 🍞 **Breadcrumbs** | Crafted from bread, used for coating chicken |
-| 🥬 **Lettuce** | Grown from Lettuce Seeds, found in grass |
-| 🥬 **Shredded Lettuce** | Craft Lettuce + Knife — essential for the Big Mac |
+Start with basic ingredients and work your way up to iconic burgers such as the Big Mac, McCrispy and the complete Quarter Pounder family!
 
 ---
 
-## 🌱 Crops & Farming
+## ✨ What’s New in Version 1.4.1?
 
-Grow your own ingredients! Five new crops can be discovered by breaking grass:
+Version 1.4.1 introduces five new burgers, mayonnaise and a complete bacon preparation process.
 
-- 🍅 **Tomato Plant** — drops fresh Tomatoes
-- 🥒 **Cucumber Plant** — for that extra crunch
-- 🧅 **Onion Plant** — because every burger needs one
-- 🌿 **Mustard Plant** — grow your own condiments
-- 🥬 **Lettuce Plant** — harvest Lettuce, then shred it with a Knife for Shredded Lettuce
+### New Burgers
 
-> 💡 Seeds drop randomly **(10% chance)** when breaking **Grass, Tall Grass, Ferns or Large Ferns** — just like real-life foraging!
+- 🍔 **Quarter Pounder with Cheese**
+- 🍔 **Double Quarter Pounder with Cheese**
+- 🍔 **Quarter Pounder with Cheese Deluxe**
+- 🍔 **Daily Double**
+- 🥓 **Bacon Quarter Pounder with Cheese**
 
----
+All burgers have individually balanced hunger and saturation values based on their size and ingredients.
 
-## 🛠️ Tools
+### Mayonnaise
 
-- 🍳 **Spatula** — the essential burger-flipping tool, used as a crafting ingredient
-- 🔪 **Knife** — a durable iron knife for food preparation. Works as a **crafting remainder** — loses durability with each use! Also used to chop Chicken into Chopped Chicken and shred Lettuce into Shredded Lettuce
+Mayonnaise is a reusable condiment with **8 uses**, just like Ketchup and Mustard.
 
----
+Craft it using:
 
-## ⛏️ World Generation
+- Glass Bottle
+- Egg
+- 2× Wheat Seeds
+- Salt
 
-- **Salt Ore** — spawns underground in stone layers. Mine it to obtain Salt for seasoning your fries!
+### Bacon Preparation
 
----
+Bacon is produced through several preparation stages:
 
-## 🍳 Frying Station
-
-The heart of the mod! The **Frying Station** works like a furnace but uses **custom frying recipes**.
-
-- Toss in raw fries, a raw chicken fillet, or raw McNuggets, add some fuel, and get perfectly fried results
-- The block **lights up** when active
-- Works with hoppers for automation
+1. **Raw Porkchop + Knife → 3× Raw Bacon**
+2. **Raw Bacon + Salt → Salted Raw Bacon**
+3. Smelt **Salted Raw Bacon** in a regular Minecraft Furnace to obtain **Bacon**
 
 ---
 
-## 📖 Wiki & Documentation
+## 🍔 Burgers
 
-For crafting recipes, farming guides, and full mod documentation, check out the official wiki:
-
-### 👉 [McDonald's Mod Wiki](https://mcdonalds-mod-by-zappyq.fandom.com/)
-
-For all my creations, check out [my linktree](https://linktr.ee/zappyq/)
-
----
-
-## 💡 Got Ideas?
-
-If you have ideas for new items, blocks, recipes, or features — **share them in the comments!**
-
-I'd love to hear your suggestions and will be happy to implement the best ones into future updates. 🎉
-
----
-
-*Made with ❤️ by ZappyQ*
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z51UE2EQ)
+| Burger | Description |
+|---|---|
+| 🍔 **Hamburger** | A simple and classic beef burger |
+| 🧀 **Cheeseburger** | A Hamburger topped with American Cheese |
+| 🍔 **McDouble** | Two beef patties with cheese and classic toppings |
+| 🍔 **Big Mac** | A double-patty burger with American Cheese, onion, cucumber and shredded lettuce |
+| 🍗 **McCrispy** | A crispy chicken fillet served in a bun with butter and cucumber |
+| 🍔 **Quarter Pounder with Cheese** | Beef patty, American Cheese, ketchup, mustard, onion and cucumber |
